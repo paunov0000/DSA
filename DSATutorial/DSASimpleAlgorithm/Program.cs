@@ -3,21 +3,6 @@
 //FibonacciForLoop();
 
 
-
-
-
-
-// FibonacciRecursion:
-//Console.WriteLine(0);
-//Console.WriteLine(1);
-//int count = 0;
-//FibonacciRecursion(0, 1);
-
-
-// Finding nth Fibonacci number using recursion
-Console.WriteLine(FindNthFibonacciNum(19));
-
-
 //static void FibonacciForLoop()
 //{
 //    int num1 = 0;
@@ -35,6 +20,15 @@ Console.WriteLine(FindNthFibonacciNum(19));
 //    }
 //}
 
+
+
+// FibonacciRecursion:
+//Console.WriteLine(0);
+//Console.WriteLine(1);
+//int count = 0;
+//FibonacciRecursion(0, 1);
+
+
 //void FibonacciRecursion(int num1, int num2)
 //{
 //    if (count < 18)
@@ -47,6 +41,13 @@ Console.WriteLine(FindNthFibonacciNum(19));
 //        FibonacciRecursion(num1, num2);
 //    }
 //}
+
+
+
+// Finding nth Fibonacci number using recursion
+Console.WriteLine(FindNthFibonacciNum(19));
+
+
 
 static int FindNthFibonacciNum(int n)
 {
