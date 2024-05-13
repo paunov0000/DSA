@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSASimpleAlgorithm", "DSASimpleAlgorithm\DSASimpleAlgorithm.csproj", "{215D633F-F3C2-480D-8043-D029CED3E215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215D633F-F3C2-480D-8043-D029CED3E215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215D633F-F3C2-480D-8043-D029CED3E215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215D633F-F3C2-480D-8043-D029CED3E215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215D633F-F3C2-480D-8043-D029CED3E215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B94961B-AF02-4885-B867-648014606267}
+	EndGlobalSection
+EndGlobal
