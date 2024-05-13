@@ -8,6 +8,7 @@ static int[] BubbleSort(int[] arr)
     //Space complexity: O(1)
     for (int i = 0; i < arr.Length; i++)
     {
+        var isSwapped = false;
         for (int j = 0; j < arr.Length - 1 - i; j++)
         {
             int tempVal;
@@ -16,7 +17,12 @@ static int[] BubbleSort(int[] arr)
                 tempVal = arr[j];
                 arr[j] = arr[j + 1];
                 arr[j + 1] = tempVal;
+                isSwapped = true;
             }
+        }
+        if (isSwapped == false)
+        {
+            break;
         }
     }
 
