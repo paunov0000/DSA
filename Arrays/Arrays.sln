@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA Arrays", "DSA Arrays\DSA Arrays.csproj", "{B336A0FF-CEDE-4441-86E6-552BC3F612AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSAArrays", "DSA Arrays\DSAArrays.csproj", "{B336A0FF-CEDE-4441-86E6-552BC3F612AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSABubbleSort", "DSABubbleSort\DSABubbleSort.csproj", "{BD867A7C-C666-458A-B711-E5E9D932A3B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B336A0FF-CEDE-4441-86E6-552BC3F612AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B336A0FF-CEDE-4441-86E6-552BC3F612AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B336A0FF-CEDE-4441-86E6-552BC3F612AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD867A7C-C666-458A-B711-E5E9D932A3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD867A7C-C666-458A-B711-E5E9D932A3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD867A7C-C666-458A-B711-E5E9D932A3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD867A7C-C666-458A-B711-E5E9D932A3B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
