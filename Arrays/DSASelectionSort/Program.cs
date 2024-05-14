@@ -6,6 +6,8 @@ Console.WriteLine($"Selection Sorted arr: {string.Join(", ", SelectionSort(arr))
 Console.WriteLine($"Improved Selection Sorted arr: {string.Join(", ", SelectionSortImproved(arr2))}");
 
 
+
+//Time complexity: O(n^2)
 static List<int> SelectionSort(List<int> arr)
 {
     int lowestValAtIndex;
@@ -32,6 +34,7 @@ static List<int> SelectionSort(List<int> arr)
     return arr;
 }
 
+//Time complexity: O(n^2)
 static int[] SelectionSortImproved(int[] arr)
 {
     int currLowestIndex;
