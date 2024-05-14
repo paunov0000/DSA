@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSABubbleSort", "DSABubbleS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSASelectionSort", "DSASelectionSort\DSASelectionSort.csproj", "{6652EEF5-A857-4B0D-BB55-C7240D74CC94}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSAArrays", "DSAArrays\DSAArrays.csproj", "{82E0C023-3EE8-40FA-89D4-F3787F37A916}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6652EEF5-A857-4B0D-BB55-C7240D74CC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6652EEF5-A857-4B0D-BB55-C7240D74CC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6652EEF5-A857-4B0D-BB55-C7240D74CC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E0C023-3EE8-40FA-89D4-F3787F37A916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E0C023-3EE8-40FA-89D4-F3787F37A916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E0C023-3EE8-40FA-89D4-F3787F37A916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E0C023-3EE8-40FA-89D4-F3787F37A916}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
